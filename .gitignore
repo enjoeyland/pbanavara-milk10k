@@ -30,7 +30,7 @@ Thumbs.db
 *.log
 split_indices.json
 
-outputs/
-outputs_*/
+outputs
+outputs_*
 wandb/
-logs/
+logs
